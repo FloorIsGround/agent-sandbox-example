@@ -1,0 +1,6 @@
+include .gitignore README.md SECURITY.md LICENSE NOTICE pyproject.toml uv.lock
+recursive-include src *.py Dockerfile CONTAINER_ONLY
+recursive-include examples *.py
+recursive-include scripts *.py *.sh
+recursive-include tests *.py
+global-exclude *.pyc __pycache__

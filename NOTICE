@@ -1,0 +1,4 @@
+Agent Sandbox Example
+
+The framing, broker, file selection and container lifecycle mechanisms
+are adapted, with changes, from Tylenol Taker Python.
